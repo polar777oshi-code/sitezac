@@ -1,0 +1,16 @@
+SITE DO IZAAC — PRONTO PARA O VERCEL
+
+Todos os GIFs e imagens estão na pasta assets.
+
+Para ver no seu computador: abra index.html no navegador.
+
+Para hospedar no Vercel:
+1. Coloque o conteúdo desta pasta na raiz de um repositório seu.
+2. Importe esse repositório no Vercel.
+3. Use o preset Other. Não precisa de comando de build.
+4. O vercel.json já define a pasta de saída como a própria raiz.
+
+Mantenha index.html, app.js, style.css, vercel.json e assets juntos.
+Não é necessário instalar dependências nem configurar variáveis de ambiente.
+
+Documentação: https://vercel.com/docs/builds
